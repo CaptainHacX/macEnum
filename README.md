@@ -67,7 +67,7 @@ shasum -a 256 -c macEnum_v4.sh.sha256
 Expected checksum file content:
 
 ```text
-b320a6c35d974d5cc934d8bae07f999eb81ea9936fe64668c28c85b3c3402c99  macEnum_v4.sh
+c6bdaedd5c8cc9575be0e2aba4d02f0027fc88d74d58c837289aab734373a31f  macEnum_v4.sh
 ```
 
 Expected verification result:
@@ -86,7 +86,7 @@ md5 -r macEnum_v4.sh
 Expected checksum file content:
 
 ```text
-45effdb5da175996787e14cd28cd9bff  macEnum_v4.sh
+bc8d9294efef7ae311ff39756c5a3a86  macEnum_v4.sh
 ```
 
 If verification fails, do not run the script.
